@@ -57,6 +57,5 @@ The output of this analysis is a dashboard-style plot for each company, showing 
 
 
 
-![Final Analysis Graph]
-(newplot1.png)
-(newplot2.png)
+![Price vs Financials - Plot 1](newplot1.png)
+![Price vs Financials - Plot 2](newplot2.png)
