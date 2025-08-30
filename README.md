@@ -6,6 +6,8 @@ This project provides an analysis of historical stock market data and financial 
 
 The entire process is documented in a Jupyter Notebook, demonstrating skills in web scraping, data manipulation, and interactive data visualization.
 
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/2549642d-a6a9-476e-a741-8dfcb165c9ad/view?access_token=54b661f90298a5bc143dc33c6a7b065d3518b88e1a9d57c8b61e343b1b224929&context=wx
+
 ---
 
 ## Key Features
